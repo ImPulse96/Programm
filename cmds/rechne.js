@@ -23,13 +23,25 @@ switch(operator)
     case "+":
         ergebnis = Number(nummer1) + Number(nummer2);
         break;
+    case "plus":
+        ergebnis = Number(nummer1) + Number(nummer2);
+        break;
     case "-":
+        ergebnis = Number(nummer1) - Number(nummer2);
+        break;
+    case "minus":
         ergebnis = Number(nummer1) - Number(nummer2);
         break;
     case "*":
         ergebnis = Number(nummer1) * Number(nummer2);
         break;
+    case "mal":
+        ergebnis = Number(nummer1) * Number(nummer2);
+        break;
     case "/":
+        ergebnis = Number(nummer1) / Number(nummer2);
+        break;
+    case "geteilt":
         ergebnis = Number(nummer1) / Number(nummer2);
         break;
     case "%":
