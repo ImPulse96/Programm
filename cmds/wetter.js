@@ -1,5 +1,5 @@
 
-const weatherKey = "a5e90a7fbebfa2afa6e98adc402d20ba";
+const weatherKey = "WEATHERKEY HERE";
 const request = require("request");
 
 let cityList = require("./cityList.json");
