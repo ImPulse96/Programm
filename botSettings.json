@@ -1,0 +1,8 @@
+{
+    "tokenTest": "INSERT TOKEN HERE",
+    "tokenKiki": "INSERT TOKEN HERE",
+    "prefix": "!",
+    "weatherApiKey": "INSERT API KEY HERE",
+    "timeZoneApiKey": "TIME ZONE API HERE",
+    "textChannelKiki": "TEXT CHANNEL ID HERE"
+}
